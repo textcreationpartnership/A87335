@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two acts I. An act to take away damage clear. II. An act to take away the benefit of clergy from him that doth stabb another not having a weapon drawn.</title>
+            <title>Laws, etc.</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87335</idno>
+            <idno type="STC">Wing I654F</idno>
+            <idno type="STC">ESTC R224214</idno>
+            <idno type="EEBO-CITATION">43077515</idno>
+            <idno type="OCLC">ocm 43077515</idno>
+            <idno type="VID">151580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151580)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1810:14 or 2265:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two acts I. An act to take away damage clear. II. An act to take away the benefit of clergy from him that doth stabb another not having a weapon drawn.</title>
+                  <title>Laws, etc.</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>[2], 3-6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by Andrew Crook, printer to the King's Most Excellent Majesty, on Ormonde-Key.</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: item at reel 2265:20 has print bleed-through.</note>
+                  <note>Item at reel 1810:14 identified as Wing E2385 (number cancelled).</note>
+                  <note>Reproductions of originals in: British Library and William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Ireland.</term>
+               <term>Ireland --  History --  1691-</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151580:1"/>
+            <!-- PDF PAGE 49 -->
+            <p>Two ACTS
+<list>
+                  <item>I. An ACT to take away Damage Clear.</item>
+                  <item>II. An ACT to take away the Benefit of Clergy from him that doth Stabb another not having a Weapon drawn.</item>
+               </list>
+            </p>
+            <figure/>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Re-printed by <hi>Andrew Crook,</hi> Printer to the Kings Moſt Excellent Majeſty, on <hi>Ormonde-Key,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:151580:2"/>
+            <!-- PDF PAGE 50 -->
+            <pb n="3" facs="tcp:151580:2"/>
+            <!-- PDF PAGE 50 -->
+            <head>An Act to take away Damage Clear. CHAP. X.</head>
+            <p>WHEREAS the Moneys which are taken by Prothonotaries of Your Majeſties Courts of Kings-Bench and Common-Pleas, and by the Clerk of Your Majeſties Court of Exchequer at <hi>Dublin,</hi> and the Clerks and Prothonotaries in any other Court within this Realm, in the name of <hi>Damna Clericorum,</hi> or Damage Clear, are an unneceſſary Charge and Burthen to all Your Majeſties Subjects, who have good Cauſe and put to Sue for Damage in Actions where Damages are Recoverable: For avoiding of which Inconveniency for the future, and that Your Majeſties Subjects may have an eaſier means for the Recovery of their Damages and Iuſt Rights which are unjuſtly detained from them; May it pleaſe Your Moſt Excellent Majeſty that it may be Enacted, and His Moſt Excellent Majeſty being willing upon all Oc<g ref="char:EOLhyphen"/>caſions to Eaſe His Subjects of all unneceſſary Charges and Burthens, is Graciouſly Pleaſed that it be Enacted.</p>
+            <p>And be it Enacted by the King's Moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, by and with the Advice and Conſent of the Lords Spiritual and Tempo<g ref="char:EOLhyphen"/>ral and Commons in this preſent Parliament Aſſembled, and by the Authority of the ſame, That no Damage Clear ſhall by any Title or Pretence whatſoever be Due, Payable, Taken
+<pb n="4" facs="tcp:151580:3"/>
+               <!-- PDF PAGE 51 -->
+or Received from any Perſon or Perſons in any Action whatſoever, Sued or Proſecuted in any of His Majeſty's Courts at <hi>Dublin,</hi> or elſewhere within the Kingdom of <hi>Ireland,</hi> by any Prothonotary, Clerk or Clerks, or other Officer or Officers of the ſaid Courts reſpective<g ref="char:EOLhyphen"/>ly, and that the ſaid Feé of <hi>Damna Clericor.</hi> or Damage Clear, ſhall wholly ceaſe and be for ever Aboliſhed in the ſaid Courts; and that if any Prothonotary, Clerk or Clerks, or other Officer in any of the ſaid Courts, ſhall take or Ex<g ref="char:EOLhyphen"/>act any Summ or Summs of Money in the name of <hi>Damna Clericor.</hi> or Damage Clear, or any thing in Lieu thereof, or if any of the ſaid Prothonotaries Clerk or Clerks, or their De<g ref="char:EOLhyphen"/>puties, ſhall Exact or take any Damage Clear, or Summ of Money, Bond or Security in Lieu thereof from any Plantiff or Plantiffs, Demandant or Demandants, in any Action where Damages have beén or hereafter ſhall be recovered in any of the ſaid Courts, or ſhall refuſe or delay to Sign any Iudgment until Damage Clear be firſt paid by the Plantiff or Demandant, he or they ſo offending ſhall for<g ref="char:EOLhyphen"/>feit Treble the Summ ſo Taken, Exacted or Demanded to the Party or Parties grieved, to be recovered by Bill, Plaint or Information in any of the ſaid Courts, wherein no Eſſoyn, Protection or Wager of Law ſhall be Al<g ref="char:EOLhyphen"/>lowed.</p>
+         </div>
+         <div type="act">
+            <pb n="5" facs="tcp:151580:3"/>
+            <!-- PDF PAGE 51 -->
+            <head>An Act to take away the Benefit of Clergy from him that doth Stabb another not having a Weapon Drawn. CHAP. XI.</head>
+            <p>TO the End that Stabbing and Killing Men on the ſudden, Done and Com<g ref="char:EOLhyphen"/>mitted by many Inhumane and wick<g ref="char:EOLhyphen"/>ed Perſons in the time of their Rage, Drunkenneſs, hidden Diſpleaſure, or other Paſ<g ref="char:EOLhyphen"/>ſion of Mind, Contrary to the Commandment of Almighty God, and the Common Peace and Tranquility of this Realm, may from hence<g ref="char:EOLhyphen"/>forth be Reſtrained for fear of due Puniſhment to be Inflicted on ſuch Cruel and Bloody Ma<g ref="char:EOLhyphen"/>lefactors, who heretofore have beén thereunto Emboldened by preſuming on the Benefit of the Clergy.</p>
+            <p>Be it therefore Enacted by the Kings Moſt Excellent Majeſty, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and the Commons in this preſent Parliament Aſſembled, and by the Authority of the ſame, That every Perſon and Perſons, who after the End of this preſent Parliament ſhall Stabb or Thurſt any Perſon or Perſons that hath not then any Weapon Drawn, or that hath not then firſt ſtricken the Party which ſhall ſo Stabb or Thruſt, ſo as the Perſon or Perſons ſo Stabbed or Thruſt ſhall thereof Die within the ſpace of Six Months then next following, al<g ref="char:EOLhyphen"/>though it cannot be proved that the ſame was Done of Malice Fore-thought, yet the Party
+<pb n="6" facs="tcp:151580:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 52 -->
+ſo Offending, and being thereof Convicted Virdict of by Twelve Men, Confeſſion, or otherwiſe, accord<g ref="char:EOLhyphen"/>ing to the Laws of this Realm ſhall be Exclu<g ref="char:EOLhyphen"/>ded from the benefit of his or their Clergy, and ſuffer Death as in Caſe of Felony, without benefit of Clergy.</p>
+            <p>Provided always that this Act, or any thing therein Contained, ſhall not Extend to any Per<g ref="char:EOLhyphen"/>ſon or Perſons which ſhall Kill any Perſon <hi>Se Defendendo,</hi> or by Misfortune, or in any other manner then as aforeſaid, nor ſhall Extend to any Perſon or Perſons, who in keéping and preſerving the Peace ſhall Chance to Commit Manſlaughter, ſo as the ſaid Manſlaughter be not Committed wittingly, willingly, and of purpoſe, under pretext and Colour of Keéping the Peace, nor ſhall Extend to any perſon or perons which in Chaſtizeing or Correcting his Child or Servant, ſhall beſides his or their In<g ref="char:EOLhyphen"/>tent and Purpoſe Chance to Commit Man<g ref="char:EOLhyphen"/>ſlaughter.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
